@@ -1,0 +1,8 @@
+{
+  "name": "Smart Attendance",
+  "description": "A modern, multi-role smart attendance system leveraging QR codes, geolocation, and face verification. Features dedicated dashboards for students, faculty, and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
